@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;300;400;600;800&display=swap');
+html * {
+  box-sizing: border-box;
+  margin: auto;
+  padding: auto;
+}
+body {
+  font-family: 'Jost', sans-serif;
+  background-position: center;
+  background-color: #1C7FA6;
+  background-image: url("img/ferramentas1.jpg");
+    }
